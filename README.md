@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/nii236/oanda.png?label=ready&title=Ready)](https://waffle.io/nii236/oanda)
 [![Go Report Card](https://goreportcard.com/badge/github.com/nii236/oanda)](https://goreportcard.com/report/github.com/nii236/oanda)
 
 # Oanda Client API
